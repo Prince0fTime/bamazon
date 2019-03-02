@@ -41,7 +41,6 @@ function menuStart() {
         if (inquirerSearch.confirm != false) {
             switch (inquirerSearch.op) {
                 case "Products for Sale":
-                    // song();
                     buy_item()
                     break;
 
