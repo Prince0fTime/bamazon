@@ -17,39 +17,6 @@ var connection = mysql.createConnection({
     database: "bamazon"
 });
 
-// function mysqlCall(str1, str2) {
-
-//     var con = mysql.createConnection({
-//         host: "localhost",
-//         user: "root",
-//         password: "root",
-//         database: "bamazon"
-//     });
-//     console.log("hi");
-//     con.connect(function (err) {
-//         if (err) throw err;
-//         var sql = 'SELECT * FROM products WHERE ' + str1 + '= ' + mysql.escape(str2);
-//         // console.log(sql);
-//         con.query(sql, function (err, result) {
-//             if (err) throw err;
-//             console.log(result);
-//         });
-//         con.end();
-//     });
-// };
-
-// function song() {
-//     inquirer.prompt([{
-
-//         type: "input",
-//         message: "Enter a song to search",
-//         name: "name",
-//     }]).then(function (inquirerArtist) {
-//         mysqlCall("song", inquirerArtist.name);
-
-//         confirmContinue();
-//     });
-// }
 menuStart();
 
 function menuStart() {
