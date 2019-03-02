@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "a": "^2.1.2",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince0fTime/bamazon.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Prince0fTime/bamazon/issues"
+  },
+  "homepage": "https://github.com/Prince0fTime/bamazon#readme"
+}
