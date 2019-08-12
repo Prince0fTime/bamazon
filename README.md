@@ -9,4 +9,4 @@ This is a test of the bamazon storefront.
 
 
 
-<video src="/bamazon/video.mp4" width="320" height="200" controls preload></video>
+<img src="https://github.com/Prince0fTime/bamazon/blob/master/bamazon.gif" width="420" height="300"></img>
