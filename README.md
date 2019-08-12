@@ -1,6 +1,6 @@
 # bamazon
 A Amazon-like storefront with MySQL and input validation
-so no minus no numbers or in correct quantities can be entered ;)
+so no minus no numbers or incorrect quantities can be entered ;)
 
 ---
 
