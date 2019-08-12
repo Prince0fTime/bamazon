@@ -9,4 +9,4 @@ This is a test of the bamazon storefront.
 
 
 
-<video src="TestVideoFile.mp4" width="320" height="200" controls preload></video>
+<video src="/bamazon/video.mp4" width="320" height="200" controls preload></video>
