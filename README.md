@@ -6,7 +6,6 @@ so no minus no numbers or incorrect quantities can be entered ;)
 * [DotEnv](https://www.npmjs.com/package/dotenv)
 * [inquirer](https://www.npmjs.com/package/inquirer)
 
----
 ## Here's a Demo
 This is a test of the bamazon storefront.
 
